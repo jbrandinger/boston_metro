@@ -9,7 +9,7 @@
 #include <vector>
 #include <fstream>
 #include <iostream>
-// Put any other structs you need here
+
 struct Station {
     std::string station_name;
     PassengerQueue queue;
