@@ -2,7 +2,6 @@
  * Implementation for MetroSim 
  *
  * Created by: Joel Brandinger
- * Date: October 2021 
  */
 
 #include "MetroSim.h"
