@@ -2,7 +2,6 @@
  * Passenger struct interface
  *
  * Created by: Joel Brandinger
- * Date: October 2021
  *
  */
 
@@ -31,7 +30,6 @@ struct Passenger
                 to   = departureStation;
         }
 
-        // TODO: implement the print function in Passenger.cpp
         void print(std::ostream &output);
 
 };

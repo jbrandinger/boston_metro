@@ -2,7 +2,6 @@
  * Implementation for passengerqueue class 
  *
  * Created by: Joel Brandinger
- * Date: October 2021
  *
  */
  

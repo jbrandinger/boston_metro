@@ -1,7 +1,3 @@
-#########################################################
-#             HOMEWORK 2: MetroSim Makefile             #
-#########################################################
-
 CXX      = clang++
 CXXFLAGS = -g3 -Wall -Wextra -Wpedantic -Wshadow
 LDFLAGS  = -g3 

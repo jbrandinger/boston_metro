@@ -1,8 +1,6 @@
 /* unit_tests.h
  *
- * CS 15 Homework 2
  * By: Joel Brandinger
- * Date: October 2021
  * 
  * Tests passenger and passengerqueue
  *

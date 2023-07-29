@@ -2,7 +2,6 @@
  * Runs MetroSim simulation
  *
  * Created by: Joel Brandinger 
- * Date: October 2021 
  */
 
 #include <iostream>
