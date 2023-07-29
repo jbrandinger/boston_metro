@@ -2,7 +2,6 @@
  * Passenger struct interface
  *
  * Created by: Joel Brandinger
- * Date: October 2021
  *
  */
 
